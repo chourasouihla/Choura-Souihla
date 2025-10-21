@@ -9,7 +9,6 @@
 I'm passionate about creating intelligent and interactive solutions that connect **AI**, **Web Development**, and **Cloud technologies**.  
 I enjoy experimenting with new tools and frameworks — from **Salesforce apps** to **deep learning models** — to bring innovative ideas to life.
 
----
 
 ### 💼 Featured Projects
 - ⚙️ **[Salesforce Marketing Cloud Demo](#)** – Showcasing automation and customer engagement flows.  
@@ -18,9 +17,7 @@ I enjoy experimenting with new tools and frameworks — from **Salesforce apps**
 - 🍔 **[Food Object Detection (YOLOv8)](#)** – Real-time food recognition system using YOLOv8.  
 - 💪 **[Lifestyle Fitness Studio Web App](#)** – A responsive web application for gym and fitness management.  
 
-*(Replace `#` with your project links when ready)*
 
----
 
 ### 🛠️ Tech Stack
 **Languages:** Python | JavaScript | PHP | HTML | CSS | SQL  
@@ -29,6 +26,18 @@ I enjoy experimenting with new tools and frameworks — from **Salesforce apps**
 **Cloud & AI:** Salesforce Platform | Google Cloud | YOLOv8 | OpenAI API  
 
 ---
+### 🏅 Salesforce Learning & Achievements
+I'm currently training as a **Salesforce Developer** at Arkx, learning **Apex, Lightning Web Components, and integrations**.  
+Here’s my progress on Trailhead:
+
+- **Double Star Ranger** ⭐⭐  
+- **Agentblazer Champion** 🏆  
+- **212 badges earned** 🎖️  
+- **107,100 Trailhead points** 📈  
+
+Explore my full Trailhead profile here: [Trailblazer Profile](https://www.salesforce.com/trailblazer/mvftgacqmnv07up9sv)
+
+
 
 ### 🧩 Currently Exploring
 - 🤖 Salesforce AI Assistant & Einstein Copilot  
@@ -53,9 +62,9 @@ I enjoy experimenting with new tools and frameworks — from **Salesforce apps**
 ---
 
 ### 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/choura-souihla)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/choura-souihla](https://www.linkedin.com/in/choura-souihla-483601287/))  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/chourasouihla)  
-[![Trailhead](https://img.shields.io/badge/Trailhead-blueviolet?logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)  
+[![Trailhead](https://img.shields.io/badge/Trailhead-blueviolet?logo=salesforce&logoColor=white)]([https://trailhead.salesforce.com](https://www.salesforce.com/trailblazer/profile))  
 
 ---
 
