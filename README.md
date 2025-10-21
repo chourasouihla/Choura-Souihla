@@ -62,7 +62,7 @@ Explore my full Trailhead profile here: [Trailblazer Profile](https://www.salesf
 ---
 
 ### 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/choura-souihla](https://www.linkedin.com/in/choura-souihla-483601287/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choura-souihla-483601287/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/chourasouihla)  
 [![Trailhead](https://img.shields.io/badge/Trailhead-blueviolet?logo=salesforce&logoColor=white)]([https://trailhead.salesforce.com](https://www.salesforce.com/trailblazer/profile))  
 
